@@ -56,12 +56,6 @@ electron-react-app
 
 4. Webpack
 
-5. Firebase Realtime Database
-
-6. Jotai
-
-7. Styled-components
-
 ## NOTE
 
 1. This boilerplate enables csp `'self'`. If you have to get sources from other url, you should disable it. But it is not recommended because of [security reasons](https://www.electronjs.org/docs/latest/tutorial/security#7-define-a-content-security-policy).
