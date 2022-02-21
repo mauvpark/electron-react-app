@@ -6,6 +6,9 @@ This is a REACT ELECTRON boilerplate form.
 
 This form is made by Electron forge.
 
+<img width="385" alt="스크린샷 2022-02-21 오후 4 44 34" src="https://user-images.githubusercontent.com/74028161/154914146-43cc936b-5c6f-4d30-b41d-3ea7d2ab7ed4.png">
+<img width="406" alt="스크린샷 2022-02-21 오후 4 44 06" src="https://user-images.githubusercontent.com/74028161/154914152-75c79fa2-a044-4a11-8fd4-b23b6e14bc41.png">
+
 ## HOW TO USE
 
 1. Fork this repo.
@@ -55,6 +58,12 @@ electron-react-app
 3. TypeScript
 
 4. Webpack
+
+5. Firebase Realtime Database
+
+6. Jotai
+
+7. Styled-components
 
 ## NOTE
 
